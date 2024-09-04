@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DCDC_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/DCDC_My.pretty")(options "")(descr ""))
+  (lib (name "Filter_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Filter_My.pretty")(options "")(descr ""))
+  (lib (name "Mornsun_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Mornsun_My.pretty")(options "")(descr ""))
+)
