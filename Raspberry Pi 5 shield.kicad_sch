@@ -4187,6 +4187,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 45.72) (xy 158.75 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a1b41d6-afc5-4107-829f-07f27abc57cc")
+	)
+	(wire
+		(pts
 			(xy 189.23 85.09) (xy 202.565 85.09)
 		)
 		(stroke
@@ -4194,6 +4204,16 @@
 			(type default)
 		)
 		(uuid "2bafdb32-b291-4206-af37-834c68afa349")
+	)
+	(wire
+		(pts
+			(xy 154.94 40.64) (xy 158.75 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c760dae-1f2d-4f5f-8315-9252ebe702ac")
 	)
 	(wire
 		(pts
@@ -4354,6 +4374,16 @@
 			(type default)
 		)
 		(uuid "aa268166-2b56-4b55-a518-4c6246931835")
+	)
+	(wire
+		(pts
+			(xy 154.94 43.18) (xy 154.94 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b56cb98e-8786-4018-8f35-911deb8e7c66")
 	)
 	(wire
 		(pts
@@ -7397,6 +7427,76 @@
 			(project ""
 				(path "/2117c268-443a-419c-9380-190e5bd7137f"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 158.75 43.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac808ef1-a4fd-4df7-96f4-51f0bda3452e")
+		(property "Reference" "R4"
+			(at 160.655 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "15k"
+			(at 160.655 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b4d71435-a37b-4dc6-b1d8-8f6b56d20c25")
+		)
+		(pin "1"
+			(uuid "306d2b45-31b5-4f38-b81c-bc88f318bf4b")
+		)
+		(instances
+			(project "Raspberry Pi 5 shield"
+				(path "/2117c268-443a-419c-9380-190e5bd7137f"
+					(reference "R4")
 					(unit 1)
 				)
 			)
