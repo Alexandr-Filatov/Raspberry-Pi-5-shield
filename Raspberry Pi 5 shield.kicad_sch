@@ -6826,6 +6826,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 193.04 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 193.04 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 193.04 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 193.04 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 193.04 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc853c87-d1e2-4b0e-93f5-344405549fb5")
 		)
@@ -6952,6 +6997,51 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 246.38 81.28 0)
 			(effects
 				(font
@@ -7292,6 +7382,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "MCP2515-I/SO"
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "71567295-d871-4286-8c65-7f6a3964263d")
 		)
@@ -7612,6 +7747,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "SKMW30F-05"
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 139.7 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "f5b69bfd-36cb-4982-937d-2192d026bc53")
 		)
@@ -7755,6 +7935,51 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 14.605 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 14.605 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 14.605 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 14.605 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 14.605 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 14.605 195.58 0)
 			(effects
 				(font
@@ -8003,7 +8228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.chipdip.ru/product0/8032947276"
 			(at 210.82 86.614 0)
 			(effects
 				(font
@@ -8013,6 +8238,51 @@
 			)
 		)
 		(property "Description" "EMI 2-inductor common mode filter"
+			(at 210.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 210.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 210.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "ACM2520-301-2P"
+			(at 210.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 210.82 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 210.82 87.63 0)
 			(effects
 				(font
@@ -8078,7 +8348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "EEHZA1H101P"
+		(property "Datasheet" "https://www.chipdip.ru/product0/8001779262"
 			(at 116.84 46.99 0)
 			(effects
 				(font
@@ -8088,6 +8358,51 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "EEHZA1H101P"
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 116.84 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 116.84 46.99 0)
 			(effects
 				(font
@@ -8296,6 +8611,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 156.845 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 156.845 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 156.845 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 156.845 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 156.845 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "272ae24b-a77c-480e-b50d-8b5b4ea40ccd")
 		)
@@ -8423,6 +8783,51 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 129.54 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 129.54 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 129.54 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 129.54 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 129.54 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 129.54 73.025 0)
 			(effects
 				(font
@@ -8664,7 +9069,7 @@
 				)
 			)
 		)
-		(property "Value" "DS1073-01-2x5-MR3T6"
+		(property "Value" "DS1073-01-2x5-MVT6"
 			(at 82.55 135.89 0)
 			(effects
 				(font
@@ -8682,7 +9087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.chipdip.ru/product/ds1073-01-2x5-mr3t6-mf2x5mr"
+		(property "Datasheet" "https://www.chipdip.ru/product/ds1073-01-2x5-mvt6-mf2x5ma"
 			(at 81.28 144.78 0)
 			(effects
 				(font
@@ -8692,6 +9097,51 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 81.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 81.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 81.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "DS1073-01-2x5-MVT6"
+			(at 81.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 81.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 81.28 144.78 0)
 			(effects
 				(font
@@ -8793,6 +9243,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 102.87 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 102.87 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 102.87 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 102.87 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 102.87 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "811d78f8-8ed4-4bc5-9275-23ad62da1129")
 		)
@@ -8846,7 +9341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.chipdip.ru/lib/688/DOC012688013.pdf"
+		(property "Datasheet" "https://www.chipdip.ru/product/pesd2can"
 			(at 229.235 98.425 0)
 			(effects
 				(font
@@ -8856,6 +9351,51 @@
 			)
 		)
 		(property "Description" "Dual Line CAN Bus Protector, 24Vrwm"
+			(at 226.06 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 226.06 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 226.06 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "PESD2CAN"
+			(at 226.06 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 226.06 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 226.06 101.6 0)
 			(effects
 				(font
@@ -9331,6 +9871,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 156.845 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 156.845 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 156.845 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 156.845 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 156.845 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15720d29-7ff8-440e-bdbd-2a9bf879e098")
 		)
@@ -9448,7 +10033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.chipdip.ru/product/pbd-20"
 			(at 35.56 52.07 0)
 			(effects
 				(font
@@ -9458,6 +10043,51 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "PBD-20 (DS1023-2x10)"
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 35.56 52.07 0)
 			(effects
 				(font
@@ -9781,6 +10411,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de86e2a6-0586-4c1b-a919-ed9d0c47d28a")
 		)
@@ -9843,6 +10518,51 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
+			(at 182.88 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 182.88 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 182.88 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 182.88 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 182.88 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 182.88 42.545 0)
 			(effects
 				(font
@@ -10110,6 +10830,51 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 168.91 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 168.91 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 168.91 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 168.91 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 168.91 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 168.91 113.665 0)
 			(effects
 				(font
@@ -10515,6 +11280,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 106.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 106.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 106.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 106.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 106.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f7b165a-65f4-4c3e-8e0c-ac77411437aa")
 		)
@@ -10631,7 +11441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.chipdip.ru/product0/8010155353"
 			(at 179.07 74.93 0)
 			(effects
 				(font
@@ -10641,6 +11451,51 @@
 			)
 		)
 		(property "Description" ""
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "TD541SCANH"
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 179.07 74.93 0)
 			(effects
 				(font
@@ -10839,6 +11694,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 106.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 106.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 106.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 106.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 106.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "375b756b-bfa5-4b1a-ab12-7c78b4d8c2bc")
 		)
@@ -10955,7 +11855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.chipdip.ru/product/pbd-4"
 			(at 35.56 91.44 0)
 			(effects
 				(font
@@ -10965,6 +11865,51 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 35.56 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 35.56 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 35.56 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "PBD-4 (DS1023-2X2)"
+			(at 35.56 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 35.56 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 35.56 91.44 0)
 			(effects
 				(font
@@ -11048,6 +11993,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 102.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6967f2ac-93a5-46d4-b548-589120957f0b")
 		)
@@ -11109,6 +12099,51 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 174.625 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 174.625 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 174.625 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 174.625 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 174.625 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 174.625 113.665 0)
 			(effects
 				(font
@@ -11245,6 +12280,51 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 158.75 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 158.75 43.18 0)
 			(effects
 				(font
@@ -11444,6 +12524,51 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 189.23 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 189.23 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 189.23 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 189.23 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 189.23 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 189.23 47.625 0)
 			(effects
 				(font
@@ -11698,7 +12823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "B40900B5477M000"
+		(property "Datasheet" "https://www.chipdip.ru/product0/9000808422"
 			(at 167.64 44.45 0)
 			(effects
 				(font
@@ -11708,6 +12833,51 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 167.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 167.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 167.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "B40900B5477M000"
+			(at 167.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 167.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 167.64 44.45 0)
 			(effects
 				(font
@@ -11778,6 +12948,51 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 246.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 246.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 246.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 246.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 246.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 246.38 90.17 0)
 			(effects
 				(font
@@ -11986,6 +13201,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 189.23 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 189.23 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 189.23 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 189.23 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 189.23 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b155c25-f03c-4f29-a697-251b640f7225")
 		)
@@ -12037,7 +13297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "B40900B5477M000"
+		(property "Datasheet" "https://www.chipdip.ru/product0/9000808422"
 			(at 175.26 44.45 0)
 			(effects
 				(font
@@ -12047,6 +13307,51 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "B40900B5477M000"
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 175.26 44.45 0)
 			(effects
 				(font
@@ -12119,6 +13424,51 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 14.605 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 14.605 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 14.605 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 14.605 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 14.605 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 14.605 190.5 0)
 			(effects
 				(font
@@ -12321,6 +13671,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 163.195 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 163.195 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 163.195 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 163.195 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 163.195 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a20ee70-90c6-44f1-aba7-3ac3da08a4b3")
 		)
@@ -12436,7 +13831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.chipdip.ru/product0/8026581529"
 			(at 110.49 106.68 0)
 			(effects
 				(font
@@ -12446,6 +13841,51 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "X322516MOB4SI"
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 110.49 106.68 0)
 			(effects
 				(font
@@ -12595,6 +14035,51 @@
 				(hide yes)
 			)
 		)
+		(property "Deadline" ""
+			(at 182.88 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 182.88 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 182.88 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 182.88 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
+			(at 182.88 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e01e851-5f77-4860-aaa3-fb1aa660641f")
 		)
@@ -12722,6 +14207,51 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 246.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Deadline" ""
+			(at 246.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 246.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 246.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part number" ""
+			(at 246.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity for order" ""
 			(at 246.38 99.06 0)
 			(effects
 				(font

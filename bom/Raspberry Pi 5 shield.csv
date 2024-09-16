@@ -1,0 +1,22 @@
+﻿Reference,Name,Qty,Quantity for order,Part number,Footprint,Manufacturer,Value,Deadline,Описание,Datasheet
+"C1,C4,C11",,3,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1u,,"Unpolarized capacitor, small symbol",~
+"C2,C3,C5,C6,C12",,5,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,0.1u,,"Unpolarized capacitor, small symbol",~
+"C7,C9",B40900B5477M000,2,,,Capacitor_SMD:CP_Elec_10x10,,470u,,Polarized capacitor,https://www.chipdip.ru/product0/9000808422
+"C8,C10",,2,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,22p,,"Unpolarized capacitor, small symbol",~
+C13,EEHZA1H101P,1,,,Capacitor_SMD:CP_Elec_10x10,,100u,,Polarized capacitor,https://www.chipdip.ru/product0/8001779262
+D1,TD541SCANH,1,,,Mornsun_My:DFN-20,,TD541SCANH,,,https://www.chipdip.ru/product0/8010155353
+D2,PESD2CAN,1,,,Package_TO_SOT_SMD:SOT-23,,PESD2CAN,,"Dual Line CAN Bus Protector, 24Vrwm",https://www.chipdip.ru/product/pesd2can
+D3,,1,,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,PWR,,"Light emitting diode, small symbol",~
+"D4,D5",,2,,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,LED_Small,,"Light emitting diode, small symbol",~
+FL1,ACM2520-301-2P,1,,,Filter_My:ACM25201022PT002,,ACM2520-301-2P,,EMI 2-inductor common mode filter,https://www.chipdip.ru/product0/8032947276
+J1,PBD-20 (DS1023-2x10),1,,,Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical,,Raspberry Connector,,"Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.chipdip.ru/product/pbd-20
+J2,PBD-4 (DS1023-2X2),1,,,Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical,,Conn_02x02_Odd_Even,,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.chipdip.ru/product/pbd-4
+J3,DS1073-01-2x5-MVT6,1,,,Molex_My:MIni-Fit_02x05_Vertical,,DS1073-01-2x5-MVT6,,"Generic connector, double row, 02x05, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)",https://www.chipdip.ru/product/ds1073-01-2x5-mvt6-mf2x5ma
+PS1,SKMW30F-05,1,,,DCDC_My:SKMW30G12,,SKMW30F-05,,Isolated DC/DC Converters 9-36Vin 5Vout 6000mA DIP Iso Reg,https://datasheet.datasheetarchive.com/originals/distributors/DKDS-2/37030.pdf
+"R1,R2",,2,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1k,,"Resistor, small symbol",~
+R3,,1,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,120,,"Resistor, small symbol",~
+R4,,1,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,15k,,"Resistor, small symbol",~
+"R5,R6,R7",,3,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,3k,,"Resistor, small symbol",~
+U1,MCP2515-I/SO,1,,,Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm,,MCP2515-xSO,,"Stand-Alone CAN Controller with SPI Interface, SOIC-18",http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+Y1,X322516MOB4SI,1,,,Crystal_My:X322516MOB4SI,,X322516MOB4SI,,"Four pin crystal, GND on pins 2 and 4",https://www.chipdip.ru/product0/8026581529
+
