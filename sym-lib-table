@@ -3,4 +3,6 @@
   (lib (name "DCDC_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/DCDC_My.kicad_sym")(options "")(descr ""))
   (lib (name "Mornsun_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Mornsun_My.kicad_sym")(options "")(descr ""))
   (lib (name "Filter_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Filter_My.kicad_sym")(options "")(descr ""))
+  (lib (name "Crystal_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Crystal_My.kicad_sym")(options "")(descr ""))
+  (lib (name "Power_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Power_My.kicad_sym")(options "")(descr ""))
 )
